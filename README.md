@@ -8,3 +8,7 @@ Here are some programs that realize basic NLP algorithms.
 5. Evaluation Measures (True/False Positive/Negative, Accuracy, Precision, Recall, F-score, TF-IDF)
 6. Information Retrieval (based on life.ru news)
 7. Cosine Similarity between words, PMI/PPMI
+
++
+
+VK_API, matplotlib, nltk, Doc2Vec, XPath, Urllib, pandas
