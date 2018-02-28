@@ -9,6 +9,5 @@ Here are some programs that realize basic NLP algorithms.
 6. Information Retrieval (based on life.ru news)
 7. Cosine Similarity between words, PMI/PPMI
 
-+
 
-VK_API, matplotlib, nltk, Doc2Vec, XPath, Urllib, pandas
+//VK_API, matplotlib, nltk, Doc2Vec, XPath, Urllib, pandas
