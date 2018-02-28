@@ -1,2 +1,2 @@
 # hse-3-NLP
-nlp projects, hse-3, nn
+Here are some programs on NLP basic topics
